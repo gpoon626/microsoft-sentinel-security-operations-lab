@@ -1,6 +1,6 @@
 # Sentinel Detection Engineering, Automation, and Reporting
 
-> Status: Draft
+> Status: Complete
 
 ## Scenario
 
