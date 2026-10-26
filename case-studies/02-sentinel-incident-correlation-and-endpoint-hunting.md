@@ -1,6 +1,6 @@
 # Sentinel Incident Correlation and Endpoint Hunting
 
-> Status: Draft
+> Status: Complete
 
 ## Scenario
 
