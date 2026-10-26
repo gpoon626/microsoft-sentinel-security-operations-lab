@@ -1,6 +1,6 @@
 # Sentinel Data Connection and KQL Investigation
 
-> Status: Draft
+> Status: Complete
 
 ## Scenario
 
